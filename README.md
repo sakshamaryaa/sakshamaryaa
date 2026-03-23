@@ -2,7 +2,7 @@
 
 > **"Building Today. Defending Tomorrow."**
 
-[![GitHub Pages](https://img.shields.io/badge/Live-sakshamaryaa.github.io-d4a843?style=flat-square&logo=github)](https://sakshamaryaa.github.io)
+[![GitHub Pages](https://img.shields.io/badge/Live-sakshamaryaa.github.io-d4a843?style=flat-square&logo=github)](https://sakshamaryaa.github.io/sakshamaryaa/)
 ![Made with](https://img.shields.io/badge/Made%20with-HTML%20%7C%20CSS%20%7C%20JS-00c8d4?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Active-4a5a3a?style=flat-square)
 
